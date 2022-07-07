@@ -399,7 +399,7 @@ p {
 }
 /* End Projects section */
 
-/* About Section */
+/* About Section 
 #about .about {
 	flex-direction: column-reverse;
 	text-align: center;
@@ -445,7 +445,7 @@ p {
 	border: 7px solid crimson;
 	z-index: -1;
 }
-/* End About Section */
+ End About Section */
 
 /* contact Section */
 #contact .contact {
